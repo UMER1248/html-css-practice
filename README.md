@@ -1,2 +1,1 @@
-# html-css-practice
-Learning and practicing foundational HTML and CSS concepts.
+# My HTML & CSS Learning Journey
